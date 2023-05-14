@@ -2,4 +2,4 @@ config:
   name: "DEV-PROP"
 app:
   topic:
-    name: ${USER_MGM_TOPIC:user_mgmt_to_notify}
+    name: user_mgmt_to_notify
