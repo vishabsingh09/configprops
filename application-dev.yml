@@ -1,2 +1,5 @@
 config:
   name: "DEV-PROP"
+app:
+  topic:
+    name: user_mgmt_to_notify
