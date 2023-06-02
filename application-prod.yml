@@ -1,0 +1,5 @@
+config:
+  name: "PROD PROPERTIES"
+app:
+  topic:
+    name: user_mgmt_to_notify
