@@ -1,0 +1,5 @@
+config:
+  name: "USER MANAGEMENT"
+app:
+  topic:
+    name: user_mgmt_to_notify
