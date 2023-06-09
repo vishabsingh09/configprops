@@ -1,5 +1,5 @@
 config:
-  name: "PROD-PROP"
+  name: "application.yml_main"
 app:
   topic:
-    name: user_mgmt_to_notify
+    name: user_mgmt_main_prod_prop
