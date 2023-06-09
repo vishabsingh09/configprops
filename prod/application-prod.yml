@@ -1,5 +1,5 @@
 config:
-  name: "prod/application.yml"
+  name: "prod/application-prod.yml"
 app:
   topic:
-    name: user_mgmt_to_notify
+    name: user_mgmt_application_prod
