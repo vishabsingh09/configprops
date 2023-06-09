@@ -1,5 +1,0 @@
-config:
-  name: "prod/application-prod.yml"
-app:
-  topic:
-    name: user_mgmt_application_prod
