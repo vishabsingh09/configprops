@@ -10,7 +10,6 @@ app:
   application:
     cache:
       expiryInSec: 10800
-
 logging:
   level:
     root: INFO
