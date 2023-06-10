@@ -1,2 +1,15 @@
 config:
-  name: "INSIDE_FOLDER"
+  name: "PROD"
+app:
+  kafka:
+    enabled: true
+  topic:
+    name: user_mgmt_to_notification
+    partitions: 2
+    replica-factor: 1
+  application:
+    cache:
+      expiryInSec: 10800
+logging:
+  level:
+    root: INFO
