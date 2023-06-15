@@ -11,7 +11,7 @@ app:
   secret:
     key: Vfj69nm&^%3KjinRvFVSKJSJKJKhjsd87812jkJKJKLAAJK
   jwt:
-    expirationTime: JWT_EXPIRATION_TIME:1734431739
+    expirationTime: 1734431739
 logging:
   level:
     root: INFO
