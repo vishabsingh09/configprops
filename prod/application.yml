@@ -1,5 +1,3 @@
-config:
-  name: "PROD"
 app:
   kafka:
     enabled: true
@@ -10,6 +8,10 @@ app:
   application:
     cache:
       expiryInSec: 10800
+  secret:
+    key: Vfj69nm&^%3KjinRvFVSKJSJKJKhjsd87812jkJKJKLAAJK
+  jwt:
+    expirationTime: JWT_EXPIRATION_TIME:1734431739
 logging:
   level:
     root: INFO
